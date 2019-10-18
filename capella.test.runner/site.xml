@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.polarsys.capella.test.run.feature_1.0.0.201910181018.jar" id="org.polarsys.capella.test.run.feature" version="1.0.0.201910181018"/>
+   <feature url="features/org.polarsys.capella.test.run.feature_1.0.0.201910181031.jar" id="org.polarsys.capella.test.run.feature" version="1.0.0.201910181031"/>
 </site>
